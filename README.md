@@ -7,7 +7,7 @@ We also tried representing the data on maps using their latitudes and longitudes
 
 
 Bubble chart is also been used, which is usually implemented using Plotly’s Python library. Initially, the restaurants were filtered out from the category’s column. Then from these results obtained, the unique values were filtered out. So, the result obtained after such query is the various categories of the different types of restaurants • These categories are then plotted on a bubble chart graph with the average price range of each type against the popularity which would be based on the average review, each category of the restaurant would get. Here the size of the bubble is the number of restaurants. • By looking at the graph we particularly come to know which category of restaurants people usually prefer more and spend money
-
+![](bussiness.png)
 
 Secondly, we use the Yelp_academic_dataset_checkin file:
 
